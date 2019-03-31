@@ -1,2 +1,4 @@
 [Adblock Plus 2.0]
 youdao.com###doc2
+douyu.com##.LotteryContainer-svgaWrap
+
