@@ -4,4 +4,3 @@ douyu.com##.LotteryContainer-svgaWrap
 douyu.com##.LotteryContainer
 douyu.com##.UPlayerLotteryEnter
 douyu.com##.fingerGuessHero*
-
