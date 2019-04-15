@@ -3,4 +3,4 @@ youdao.com###doc2
 douyu.com##.LotteryContainer-svgaWrap
 douyu.com##.LotteryContainer
 douyu.com##.UPlayerLotteryEnter
-douyu.com##.fingerGuessHero*
+douyu.com##div[class^="fingerGuessHero"]
