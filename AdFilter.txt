@@ -5,3 +5,4 @@ douyu.com##.LotteryContainer-svgaWrap
 douyu.com##.LotteryContainer
 douyu.com##.UPlayerLotteryEnter
 douyu.com##div[class^="fingerGuessHero"]
+live.bilibili.com##div.chat-item.system-msg
