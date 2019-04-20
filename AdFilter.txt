@@ -6,3 +6,5 @@ douyu.com##.LotteryContainer
 douyu.com##.UPlayerLotteryEnter
 douyu.com##div[class^="fingerGuessHero"]
 live.bilibili.com##div.chat-item.system-msg
+live.bilibili.com##div.title-label
+live.bilibili.com##div.guard-icon
