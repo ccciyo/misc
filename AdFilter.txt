@@ -4,6 +4,7 @@ youdao.com##.sidebar-ft
 douyu.com##.LotteryContainer-svgaWrap
 douyu.com##.LotteryContainer
 douyu.com##.UPlayerLotteryEnter
+douyu.com##.layout-Player-toolbar
 douyu.com##div[class^="fingerGuessHero"]
 douyu.com##div[class^="closeBg"]
 douyu.com##div[class^="bg-"]
