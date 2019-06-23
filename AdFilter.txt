@@ -12,6 +12,7 @@ douyu.com##div[class^="fingerGuessHero"]
 douyu.com##div[class^="closeBg"]
 douyu.com##div[class^="bg-"]
 douyu.com##div[class^="bg-"]
+douyu.com##div[class^="Act"]
 live.bilibili.com##div.chat-item.system-msg
 live.bilibili.com##div.title-label
 live.bilibili.com##.guard-icon
