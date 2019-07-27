@@ -6,6 +6,7 @@ douyu.com##.LotteryContainer
 douyu.com##.UPlayerLotteryEnter
 douyu.com##.HeaderGif-left
 douyu.com##.HeaderGif-right
+douyu.com##.AppFlow
 douyu.com##.PlayerToolbar
 douyu.com##.PaladinWeek-toast
 douyu.com##div[class^="fingerGuessHero"]
