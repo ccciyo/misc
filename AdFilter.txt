@@ -18,3 +18,4 @@ live.bilibili.com##div.chat-item.system-msg
 live.bilibili.com##div.title-label
 live.bilibili.com##.guard-icon
 huya.com###huya-ab
+huya.com##.box-recom
