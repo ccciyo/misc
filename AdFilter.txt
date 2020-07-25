@@ -19,5 +19,5 @@ live.bilibili.com##div.title-label
 live.bilibili.com##.guard-icon
 huya.com###huya-ab
 huya.com##.box-recom
-huya.com##div[class*="match_diy_"]
+#huya.com##div[class*="match_diy_"]
 huya.com##div[class*="J_msnNav"]
