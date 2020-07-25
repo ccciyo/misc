@@ -19,4 +19,5 @@ live.bilibili.com##div.title-label
 live.bilibili.com##.guard-icon
 huya.com###huya-ab
 huya.com##.box-recom
- 
+huya.com###room-moments
+huya.com##div[class="J_expandCont"]
