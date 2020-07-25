@@ -21,3 +21,4 @@ huya.com###huya-ab
 huya.com##.box-recom
 
 douyu.com##div[class*="match-side-nav"]
+douyu.com##div[class*="nav-comp-wrap"]
