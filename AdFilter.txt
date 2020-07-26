@@ -21,3 +21,4 @@ huya.com###huya-ab
 huya.com##.box-recom
 huya.com###room-moments
 huya.com##div[class="J_expandCont"]
+huya.com##div[class="room-footer"]
