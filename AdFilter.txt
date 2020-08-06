@@ -24,4 +24,3 @@ huya.com##div[class="J_expandCont"]
 huya.com##div[class="room-footer"]
 huya.com###wrap-income
 livewebbs2.msstatic.com/birthdayskin_*.jpg
-
