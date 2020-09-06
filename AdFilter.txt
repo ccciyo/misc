@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 youdao.com###doc2
 youdao.com##.sidebar-ft
+
 douyu.com##.LotteryContainer-svgaWrap
 douyu.com##.LotteryContainer
 douyu.com##.UPlayerLotteryEnter
@@ -14,13 +15,22 @@ douyu.com##div[class^="closeBg"]
 douyu.com##div[class^="bg-"]
 douyu.com##div[class^="bg-"]
 douyu.com##div[class^="Act"]
+
 live.bilibili.com##div.chat-item.system-msg
 live.bilibili.com##div.title-label
 live.bilibili.com##.guard-icon
+
+
 huya.com###huya-ab
 huya.com##.box-recom
 huya.com###room-moments
 huya.com##div[class="J_expandCont"]
 huya.com##div[class="room-footer"]
-livewebbs2.msstatic.com/birthdayskin_*.jpg
+huya.com##.hy-side
+huya.com##.third-clickstat
+huya.com##.list-adx
 huya.com###wrap-income
+livewebbs2.msstatic.com/birthdayskin_*.jpg
+
+
+duitang.com##.blockUI
