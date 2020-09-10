@@ -31,6 +31,7 @@ huya.com##.third-clickstat
 huya.com##.list-adx
 huya.com##.gift-info-wrap
 huya.com##.room-business-game
+huya.com##.room-gg-chat
 huya.com###wrap-income
 livewebbs2.msstatic.com/birthdayskin_*.jpg
 
