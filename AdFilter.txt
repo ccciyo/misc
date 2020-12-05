@@ -33,6 +33,9 @@ huya.com##.gift-info-wrap
 huya.com##.room-business-game
 huya.com##.room-gg-chat
 huya.com###wrap-income
+huya.com##.player-gift-wrap>div
+huya.com##.player-gift-wrap>ul
+
 
 
 livewebbs2.msstatic.com/birthdayskin_*.jpg
