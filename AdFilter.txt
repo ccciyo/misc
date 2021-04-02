@@ -35,8 +35,7 @@ huya.com##.room-gg-chat
 huya.com###wrap-income
 huya.com##.player-gift-wrap>div
 huya.com##.player-gift-wrap>ul
-
-
+huya.com###J_communityContainer
 
 livewebbs2.msstatic.com/birthdayskin_*.jpg
 
