@@ -15,6 +15,9 @@ douyu.com##div[class^="closeBg"]
 douyu.com##div[class^="bg-"]
 douyu.com##div[class^="bg-"]
 douyu.com##div[class^="Act"]
+douyu.com##.msg-onTVLottery
+
+
 
 live.bilibili.com##div.chat-item.system-msg
 live.bilibili.com##div.title-label
