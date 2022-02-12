@@ -22,6 +22,7 @@ douyu.com##.msg-onTVLottery
 live.bilibili.com##div.chat-item.system-msg
 live.bilibili.com##div.title-label
 live.bilibili.com###anchor-guest-box-id
+live.bilibili.com###my-dear-haruna-vm
 live.bilibili.com##.guard-icon
 
 
