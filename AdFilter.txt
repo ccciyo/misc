@@ -29,6 +29,7 @@ live.bilibili.com##.guard-icon
 huya.com###huya-ab
 huya.com##.box-recom
 huya.com###room-moments
+huya.com###matchComponent4
 huya.com##div[class="J_expandCont"]
 huya.com##div[class="room-footer"]
 huya.com##.hy-side
