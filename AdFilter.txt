@@ -43,6 +43,7 @@ huya.com###wrap-income
 huya.com##.player-gift-wrap>div
 huya.com##.player-gift-wrap>ul
 huya.com###J_communityContainer
+huya.com###player-ext-wrap
 huya.com##.helperbar-root
 
 livewebbs2.msstatic.com/birthdayskin_*.jpg
