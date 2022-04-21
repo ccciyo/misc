@@ -18,6 +18,7 @@ douyu.com##div[class^="Act"]
 douyu.com##div[data-lp="121873726"]
 douyu.com##.msg-onTVLottery
 douyu.com##.layout-Bottom
+douyu.com###chat-room__list[-ext-has=".msg-onTVLottery"]
 
 
 
