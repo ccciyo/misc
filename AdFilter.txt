@@ -19,6 +19,9 @@ douyu.com##div[data-lp="121873726"]
 douyu.com##.msg-onTVLottery
 douyu.com##.layout-Bottom
 douyu.com###chat-room__list[-ext-has=".msg-onTVLottery"]
+douyu.com##div:has(.msg-onTVLottery)
+douyu.com##div.SingleRecommandEntry
+douyu.com##div.Aside-footer
 
 
 
@@ -28,7 +31,8 @@ live.bilibili.com###anchor-guest-box-id
 live.bilibili.com###my-dear-haruna-vm
 live.bilibili.com##.guard-icon
 
-
+huya.com###sidebarBanner
+huya.com##div[class*='helperbar-root']
 huya.com###huya-ab
 huya.com##.box-recom
 huya.com###room-moments
