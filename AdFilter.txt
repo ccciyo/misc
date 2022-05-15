@@ -51,6 +51,7 @@ huya.com##.player-gift-wrap>ul
 huya.com###J_communityContainer
 huya.com###player-ext-wrap
 huya.com##.helperbar-root
+huya.com###player-download-guide-tip
 
 livewebbs2.msstatic.com/birthdayskin_*.jpg
 
