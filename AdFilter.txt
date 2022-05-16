@@ -34,6 +34,7 @@ bilibili.com##.video-ad-creative-card
 bilibili.com##.ad-report 
 bilibili.com##.ad-floor
 bilibili.com###live_recommand_report
+bilibili.com##.bilibili-player-video-popup
 
 huya.com###sidebarBanner
 huya.com##div[class*='helperbar-root']
