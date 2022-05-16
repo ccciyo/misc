@@ -30,6 +30,10 @@ live.bilibili.com##div.title-label
 live.bilibili.com###anchor-guest-box-id
 live.bilibili.com###my-dear-haruna-vm
 live.bilibili.com##.guard-icon
+bilibili.com##.video-ad-creative-card
+bilibili.com##.ad-report 
+bilibili.com##.ad-floor
+bilibili.com###live_recommand_report
 
 huya.com###sidebarBanner
 huya.com##div[class*='helperbar-root']
