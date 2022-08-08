@@ -64,3 +64,5 @@ livewebbs2.msstatic.com/birthdayskin_*.jpg
 
 
 duitang.com##.blockUI
+
+tieba.baidu.com###thread_list>div
