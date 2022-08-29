@@ -66,4 +66,4 @@ livewebbs2.msstatic.com/birthdayskin_*.jpg
 duitang.com##.blockUI
 
 tieba.baidu.com###thread_list>div
-tieba.baidu.com###j_p_postlist>div[-ext-contains="@看评论"]
+tieba.baidu.com###j_p_postlist>div:contains(/.*?@.*?推荐贴.*/)
