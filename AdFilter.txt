@@ -67,5 +67,4 @@ duitang.com##.blockUI
 
 tieba.baidu.com###thread_list>div
 tieba.baidu.com###j_p_postlist>div:has(.j_d_post_content a.at)
-tieba.baidu.com###j_p_postlist>div:has(a.user_badge[title^='本吧头衔1级'])
 
