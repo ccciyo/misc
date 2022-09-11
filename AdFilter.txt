@@ -59,6 +59,10 @@ huya.com##.helperbar-root
 huya.com###player-download-guide-tip
 huya.com##.room-backToTop
 huya.com###J_roomGamePromote
+huya.com###share-entrance
+huya.com###wrap-ext
+huya.com##.jump-to-phone
+
 
 livewebbs2.msstatic.com/birthdayskin_*.jpg
 
