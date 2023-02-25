@@ -22,6 +22,17 @@ douyu.com###chat-room__list[-ext-has=".msg-onTVLottery"]
 douyu.com##div:has(.msg-onTVLottery)
 douyu.com##div.SingleRecommandEntry
 douyu.com##div.Aside-footer
+douyu.com##.bc-wrapper:contains(已累计签到)
+douyu.com##.bc-wrapper:contains(看图猜成语)
+douyu.com##.ActBase.is-show
+douyu.com##.PELact.is-showBox
+huya.com###J_roomGgTop > div.room-gg-top > a.pic.J_pic:first-child > img
+huya.com###J_hyHdNavItemCloudGame > div.hy-nav-expand
+huya.com###J_hyHdNavItemGame
+huya.com###duya-header > div.duya-header-wrap.clearfix > div.duya-header-bd.clearfix > div.duya-header-ad:last-child
+huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.NavDownload--14eln2LYTFMgF_MZOue4Gu:nth-child(2)
+huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.dot--g92BzaqFUtbPTJytM_job:last-child
+huya.com###player-recommend
 
 
 
@@ -62,13 +73,27 @@ huya.com###J_roomGamePromote
 huya.com###share-entrance
 huya.com###wrap-ext
 huya.com##.jump-to-phone
+huya.com###js-live-list>.game-live-item:contains(恐怖)
+huya.com###js-live-list>.game-live-item:contains(陪看)
+huya.com###js-live-list>.game-live-item:contains(鬼)
+huya.com###js-live-list>.game-live-item:contains(僵尸)
+huya.com###js-live-list>.game-live-item:contains(阿斗归来了)
+huya.com###js-live-list>.game-live-item:contains(SJ-)
+huya.com###js-live-list>.game-live-item:contains(DD-)
+huya.com###js-live-list>.game-live-item:contains(微竞-)
+huya.com###js-live-list>.game-live-item:contains(yd丶)
+huya.com###js-live-list>.game-live-item:contains(寒夜教练解说)
+huya.com###videoContainer>.small-handle-tip
+huya.com###chat-room__list>div>.msg-onTVLottery
 
 
 livewebbs2.msstatic.com/birthdayskin_*.jpg
-
 
 duitang.com##.blockUI
 
 tieba.baidu.com###thread_list>div
 tieba.baidu.com###j_p_postlist>div:has(.j_d_post_content a.at)
+
+
+bbs.hupu.com##img[src^="https://i5.hoopchina.com.cn/hupuapp/bbs/109/37338109/thread_37338109_20210220183736_s_5420718_o_w_550_h_550_29803.gif"]
 
