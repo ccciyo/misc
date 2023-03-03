@@ -1,9 +1,5 @@
 parsers:
-<<<<<<< HEAD
   - url: https://example.com/profile.yaml
-=======
-  - url: sss
->>>>>>> c40577b (Update clash-parser.yml)
     code: |
       module.exports.parse = async (raw, { axios, yaml, notify, console }) => {
           let conf = yaml.parse(raw)
