@@ -94,6 +94,8 @@ duitang.com##.blockUI
 tieba.baidu.com###thread_list>div
 tieba.baidu.com###j_p_postlist>div:has(.j_d_post_content a.at)
 
+baidu.com###s-hotsearch-wrapper
+
 
 bbs.hupu.com##img[src^="https://i5.hoopchina.com.cn/hupuapp/bbs/109/37338109/thread_37338109_20210220183736_s_5420718_o_w_550_h_550_29803.gif"]
 
