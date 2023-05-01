@@ -83,6 +83,7 @@ huya.com###js-live-list>.game-live-item:contains(DD-)
 huya.com###js-live-list>.game-live-item:contains(微竞-)
 huya.com###js-live-list>.game-live-item:contains(yd丶)
 huya.com###js-live-list>.game-live-item:contains(寒夜教练解说)
+huya.com###js-live-list>.game-live-item:contains(扁豆看电影)
 huya.com###videoContainer>.small-handle-tip
 huya.com###chat-room__list>div>.msg-onTVLottery
 
