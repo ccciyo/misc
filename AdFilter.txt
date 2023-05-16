@@ -26,13 +26,7 @@ douyu.com##.bc-wrapper:contains(已累计签到)
 douyu.com##.bc-wrapper:contains(看图猜成语)
 douyu.com##.ActBase.is-show
 douyu.com##.PELact.is-showBox
-huya.com###J_roomGgTop > div.room-gg-top > a.pic.J_pic:first-child > img
-huya.com###J_hyHdNavItemCloudGame > div.hy-nav-expand
-huya.com###J_hyHdNavItemGame
-huya.com###duya-header > div.duya-header-wrap.clearfix > div.duya-header-bd.clearfix > div.duya-header-ad:last-child
-huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.NavDownload--14eln2LYTFMgF_MZOue4Gu:nth-child(2)
-huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.dot--g92BzaqFUtbPTJytM_job:last-child
-huya.com###player-recommend
+
 
 
 
@@ -86,6 +80,15 @@ huya.com###js-live-list>.game-live-item:contains(寒夜教练解说)
 huya.com###js-live-list>.game-live-item:contains(扁豆看电影)
 huya.com###videoContainer>.small-handle-tip
 huya.com###chat-room__list>div>.msg-onTVLottery
+huya.com###J_roomGgTop > div.room-gg-top > a.pic.J_pic:first-child > img
+huya.com###J_hyHdNavItemCloudGame > div.hy-nav-expand
+huya.com###J_hyHdNavItemGame
+huya.com###duya-header > div.duya-header-wrap.clearfix > div.duya-header-bd.clearfix > div.duya-header-ad:last-child
+huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.NavDownload--14eln2LYTFMgF_MZOue4Gu:nth-child(2)
+huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.dot--g92BzaqFUtbPTJytM_job:last-child
+huya.com###player-recommend
+
+mse.console.aliyun.com##body>.next-overlay-wrapper:contains(You are not authorized to perform this operation)
 
 
 livewebbs2.msstatic.com/birthdayskin_*.jpg
