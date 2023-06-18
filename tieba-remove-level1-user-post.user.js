@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://tieba.baidu.com/p/*
+// @match        https://*.tieba.baidu.com/p/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=baidu.com
 // @grant        none
 // ==/UserScript==
