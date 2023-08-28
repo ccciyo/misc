@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         贴吧屏蔽1级号
+// @name         贴吧屏蔽用户
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
@@ -13,11 +13,16 @@
 (function () {
     'use strict';
     let postList = document.querySelectorAll('#j_p_postlist>div')
+    let blockUids = new Set()
+    blockUids.add(6421022725)
     for (let item of postList) {
         let dataStr = item.getAttribute('data-field')
         if (dataStr) {
             let data = JSON.parse(dataStr);
             if (data.author.level_id <= 1 && data.author.user_id != data.content.builderId) {
+                item.style.display = 'none'
+            }
+            if (blockUids.has(data.author.user_id)) {
                 item.style.display = 'none'
             }
         }
