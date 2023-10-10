@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         贴吧屏蔽用户
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.1
 // @description  try to take over the world!
 // @author       You
 // @match        https://tieba.baidu.com/p/*
 // @match        https://*.tieba.baidu.com/p/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=baidu.com
+// @downloadURL  https://github.com/ccciyo/misc/raw/master/tieba-block-user.user.js
 // @grant        none
 // ==/UserScript==
 
