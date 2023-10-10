@@ -11,21 +11,50 @@
 // ==/UserScript==
 
 (function () {
-    'use strict';
-    let postList = document.querySelectorAll('#j_p_postlist>div')
-    let blockUids = new Set()
-    blockUids.add(6421022725)
-    for (let item of postList) {
-        let dataStr = item.getAttribute('data-field')
-        if (dataStr) {
-            let data = JSON.parse(dataStr);
-            if (data.author.level_id <= 1 && data.author.user_id != data.content.builderId) {
-                item.style.display = 'none'
-            }
-            if (blockUids.has(data.author.user_id)) {
-                item.style.display = 'none'
-            }
-        }
+  'use strict';
+  let postList = document.querySelectorAll('#j_p_postlist>div')
+  let blockUids = new Set()
+  let blocklistKey = 'tieba_blockUids';
+
+  initBlockList();
+  filterPost();
+
+  function initBlockList() {
+    let blocklistStr = localStorage.getItem(blocklistKey);
+    if (blocklistStr) {
+      blockUids = new Set(JSON.parse(blocklistStr))
     }
-    // Your code here...
+  }
+
+  function filterPost() {
+    for (let item of postList) {
+      let dataStr = item.getAttribute('data-field')
+      if (dataStr) {
+        let data = JSON.parse(dataStr);
+        if (blockUids.has(data.author.user_id)) {
+          item.style.display = 'none'
+        }
+        let actionEl = item.querySelector('.d_author>.p_author');
+        actionEl.appendChild(createBlockButten(item, data))
+      }
+    }
+  }
+
+  function createBlockButten(postEl, data) {
+    let elLi = document.createElement('li')
+    elLi.className='l_badge'
+    elLi.style='display:block;'
+    let elA = document.createElement('a')
+    elA.innerText = "blockUser"
+    elA.href = '#'
+    elA.onclick = function (e) {
+      blockUids.add(data.author.user_id)
+      localStorage.setItem(blocklistKey, JSON.stringify(blockUids))
+      postEl.style.display = 'none'
+      return false
+    }
+    elLi.appendChild(elA)
+    return elLi;
+  }
+
 })();
