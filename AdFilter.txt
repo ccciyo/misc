@@ -103,3 +103,6 @@ baidu.com###s-hotsearch-wrapper
 
 bbs.hupu.com##img[src^="https://i5.hoopchina.com.cn/hupuapp/bbs/109/37338109/thread_37338109_20210220183736_s_5420718_o_w_550_h_550_29803.gif"]
 
+
+baomidou.com##astro-island:contains(广告拦截器)
+
