@@ -84,9 +84,11 @@ huya.com###J_roomGgTop > div.room-gg-top > a.pic.J_pic:first-child > img
 huya.com###J_hyHdNavItemCloudGame > div.hy-nav-expand
 huya.com###J_hyHdNavItemGame
 huya.com###duya-header > div.duya-header-wrap.clearfix > div.duya-header-bd.clearfix > div.duya-header-ad:last-child
-huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.NavDownload--14eln2LYTFMgF_MZOue4Gu:nth-child(2)
-huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY.Logined--2q_uBGAzAihzeImbRx2Lwa > div.Nav--2HPhApT-QQWPnPIHoPgi7f:first-child > div.NavItem--1jr9x80QTPbnrDwqn834hF.dot--g92BzaqFUtbPTJytM_job:last-child
 huya.com###player-recommend
+huya.com###player-wrap .common-popup
+huya.com###player-gift-wrap
+huya.com###matchMain
+huya.com###matchComponent2
 
 mse.console.aliyun.com##body>.next-overlay-wrapper:contains(You are not authorized to perform this operation)
 
@@ -100,8 +102,6 @@ tieba.baidu.com###j_p_postlist>div:has(.j_d_post_content a.at)
 
 baidu.com###s-hotsearch-wrapper
 
-
-bbs.hupu.com##img[src^="https://i5.hoopchina.com.cn/hupuapp/bbs/109/37338109/thread_37338109_20210220183736_s_5420718_o_w_550_h_550_29803.gif"]
 
 
 baomidou.com##astro-island:contains(广告拦截器)
