@@ -7,7 +7,6 @@
 // @match        https://tieba.baidu.com/p/*
 // @match        https://*.tieba.baidu.com/p/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=baidu.com
-// @downloadURL  https://github.com/ccciyo/misc/raw/master/tieba-block-user.user.js
 // @grant        none
 // ==/UserScript==
 
