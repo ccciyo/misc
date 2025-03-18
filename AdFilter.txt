@@ -89,7 +89,15 @@ huya.com###player-wrap .common-popup
 huya.com###player-gift-wrap
 huya.com###matchMain
 huya.com###matchComponent2
-
+huya.com###player-wrap .common-popup
+huya.com###player-gift-wrap
+huya.com###matchMain
+huya.com###matchComponent2
+huya.com###js-live-list>.game-live-item:contains(星秀)
+huya.com###js-live-list>.game-live-item:contains(英雄联盟)
+huya.com###js-live-list>.game-live-item:contains(交友)
+huya.com###js-live-list>.game-live-item:contains(户外)
+huya.com###js-live-list>.game-live-item:contains(童锦程)
 mse.console.aliyun.com##body>.next-overlay-wrapper:contains(You are not authorized to perform this operation)
 
 
