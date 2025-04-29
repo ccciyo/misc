@@ -111,7 +111,3 @@ function autoCallWithRateLimit(
     // Return controls to start/stop the process
     return { start, stop };
 }
-
-autoCallWithRateLimit(() => {
-    console.log('Auto-caller is running...', new Date());
-}, 10, 10000).start();
