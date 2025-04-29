@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://www.huya.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=huya.com
+// @require      https://github.com/ccciyo/misc/blob/master/userscript/tools/AutoCaller.js
 // @grant        none
 // ==/UserScript==
 
@@ -22,7 +23,7 @@
     hookStreamRate();
 
     function hookStreamRate() {
-        queryElement(()=>{
+        queryElement(() => {
             return document.querySelector('#player-ctrl-wrap > div.player-ctrl-btn > div.player-videotype > div.player-menu-panel.player-menu-panel-common > div.player-videoline-videotype > ul > li:nth-child(1)');
         }).then((el) => {
             let d = $(el).data();
@@ -48,23 +49,19 @@
 
             el.style.height = '115px';
             el.prepend(iptMsgbot);
-            autoSend(iptMsgbot);
+
+            autoCallWithRateLimit(autoSend, 10, 60000, () => [iptMsgbot]);
         });
 
         function autoSend(iptMsgbot) {
-            var time = Math.floor(Math.random() * 15) + 5;
-            setTimeout(() => {
-                var ipt = document.querySelector('#pub_msg_input');
-                ipt.focus();
+            var ipt = document.querySelector('#pub_msg_input');
+            ipt.focus();
 
-                let val = iptMsgbot.value;
-                if (val) {
-                    document.execCommand('insertText', false, val);
-                    document.querySelector('#msg_send_bt').click();
-                }
-
-                autoSend(iptMsgbot);
-            }, time * 1000);
+            let val = iptMsgbot.value;
+            if (val) {
+                document.execCommand('insertText', false, val);
+                document.querySelector('#msg_send_bt').click();
+            }
         }
     }
 
